@@ -53,12 +53,14 @@ SWE-Mutation: Can LLMs Generate Reliable Test Suites in Software Engineering?
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Outstanding Graduate, University of Science and Technology of China
+- *2024* Soong Ching Ling Future Scholarship, University of Science and Technology of China
+- *2022，2023* Outstanding Student Scholarship Award, University of Science and Technology of China
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - present*, Master's Degree, University of Science and Technology of China, Computer Science and Technology.
+- *2021.08 - 2025.06*, Bachelor's Degree, University of Science and Technology of China, Computer Science and Technology.
+- *2018.09 - 2021.06*, Senior High School Student, Zhengzhou Foreign Language School.
 
 <!--
 # 💬 Invited Talks
@@ -66,7 +68,7 @@ SWE-Mutation: Can LLMs Generate Reliable Test Suites in Software Engineering?
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 -->
-<!--
+
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+- *2025.04 - present*, [Meituan](https://www.meituan.com/), 3A Team, Post training.
+
