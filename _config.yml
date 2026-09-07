@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yuxuan Sun"
 description              : ""
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "syx777/syx777.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,7 +27,7 @@ author:
   location         : "Hefei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=j9fZB5gAAAAJ"
   email            : "sunyuxuan@mail.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
