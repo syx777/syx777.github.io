@@ -96,6 +96,8 @@ Junhao Yu, Yan Zhuang, **Yuxuan Sun**, Weibo Gao, Qi Liu, Mingyue Cheng, Zhenya 
 [View all publications and current citation counts on Google Scholar](https://scholar.google.com/citations?user=j9fZB5gAAAAJ).
 
 # 🎖 Honors and Awards
+- *2026* 2nd Place, [Global Open-source AI Challenge (GOAI)](https://www.infoq.cn/article/hrmb2p18iKEwl24OMvcv), AI for Research — Algorithm Competition ( 2/2999 ）
+- *2026* First-Class Graduate Academic Scholarship, University of Science and Technology of China
 - *2025* Outstanding Graduate, University of Science and Technology of China
 - *2024* Soong Ching Ling Future Scholarship, University of Science and Technology of China
 - *2023* Outstanding Student Scholarship Award, University of Science and Technology of China
@@ -114,4 +116,4 @@ Junhao Yu, Yan Zhuang, **Yuxuan Sun**, Weibo Gao, Qi Liu, Mingyue Cheng, Zhenya 
 -->
 
 # 💻 Internships
-- *2025.04 - present*, [Meituan](https://www.meituan.com/), 3A Team, Post training.
+- *2025.04 - 2026.07*, [Meituan](https://www.meituan.com/), 3A Team, Post training.
